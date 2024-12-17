@@ -3,7 +3,10 @@ package practice_CJC_questions;
 public class Company {
 
 	public static void main(String[] args) {
-		
+	Employee e1=new Employee();
+		e1.setId(101);
+		e1.setName("vaibhav");
+		e1.setSalary(200000);	
 	}
 
 }
